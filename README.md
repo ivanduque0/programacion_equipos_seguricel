@@ -37,6 +37,8 @@ https://github.com/ivanduque0/Modulos_wifi/tree/main/aperturas_esp01
 
 # Programar placas esp32
 
+NOTA: asegurese que se tienen los drivers del esp32, en el caso de los esp32 devkit v4 el driver se consigue en https://www.wch.cn/downloads/CH343SER_ZIP.html
+
 1 Introduzca en un puerto usb el dispositivo con el esp8266 instalado
 
 2 Abra el IDE de Arduino, arriba del todo seleccione "Herramientas", luego a "Placa", luego donde dice "ESP32 Arduino", y por ultimo seleccione el que dice "ESP32 Dev Module"
