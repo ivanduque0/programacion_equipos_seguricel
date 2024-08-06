@@ -13,9 +13,11 @@ https://dl.espressif.com/dl/package_esp32_index.json,http://arduino.esp8266.com/
 por ultimo haga click en "OK"
 
 3 Dirijase a "Herramientas", luego a "Placa" y seleccione "Gestor de tarjetas". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "esp8266".
-Le aparecera un solo resultado en la busqueda, abajo del todo del unico resultado seleccione la version "3.0.2" y luego haga click en "instalar", esto empezara a descargar las librerias necesarias para programar el esp8266. espere a que el proceso termine y no cierre la pestaña, luego pase al siguiente paso.
+Le aparecera un solo resultado en la busqueda, abajo del todo del unico resultado seleccione la version "2.7.0" y luego haga click en "instalar", esto empezara a descargar las librerias necesarias para programar el esp8266. espere a que el proceso termine y no cierre la pestaña, luego pase al siguiente paso.
 
-4 Ahora arriba del todo de la pestaña donde habia escrito "esp8266", borre eso que escribio y ahora escriba "esp32". Tambien le aparecera un solo resultado en la busqueda, abajo del todo de ese resultado seleccione la version "1.0.6" y haga click en "instalar". Espere a que el proceso termine y al finalizar cierre la pestaña.
+4 Ahora arriba del todo de la pestaña donde habia escrito "esp8266", borre eso que escribio y ahora escriba "esp32". Tambien le aparecera un solo resultado en la busqueda, abajo del todo de ese resultado seleccione la version "2.0.6" y haga click en "instalar". Espere a que el proceso termine y al finalizar cierre la pestaña.
+
+5. Para instalar arduionoJson dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "arduinoJson", instale la version 6.21.2 de la primera opcion.
 
 # Programar placas 8266
 
