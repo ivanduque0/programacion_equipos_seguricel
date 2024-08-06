@@ -17,7 +17,9 @@ Le aparecera un solo resultado en la busqueda, abajo del todo del unico resultad
 
 4 Ahora arriba del todo de la pestaña donde habia escrito "esp8266", borre eso que escribio y ahora escriba "esp32". Tambien le aparecera un solo resultado en la busqueda, abajo del todo de ese resultado seleccione la version "2.0.6" y haga click en "instalar". Espere a que el proceso termine y al finalizar cierre la pestaña.
 
-5. Para instalar arduionoJson dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "arduinoJson", instale la version 6.21.2 de la primera opcion.
+5 Para instalar arduionoJson dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "arduinoJson", instale la version 6.21.2 de la primera opcion.
+
+6 Para instalar NTPClient dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "ntpclient", instale la version 2.2.1 de la primera opcion.
 
 # Programar placas 8266
 
