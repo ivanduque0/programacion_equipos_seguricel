@@ -19,7 +19,7 @@ Le aparecera un solo resultado en la busqueda, abajo del todo del unico resultad
 
 5 Para instalar arduionoJson dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "arduinoJson", instale la version 6.21.2 de la primera opcion.
 
-6 Para instalar NTPClient dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "ntpclient", instale la version 2.2.1 de la primera opcion.
+6 Para instalar NTPClient dirijase a "Herramientas" y seleccione "gestionar librerias". Se abrira una nueva pestaña, arriba del todo en la pestaña primero escriba "ntpclient", instale la version 3.2.1 de la primera opcion.
 
 # Programar placas 8266
 
