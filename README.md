@@ -23,6 +23,8 @@ Le aparecera un solo resultado en la busqueda, abajo del todo del unico resultad
 
 # Programar placas 8266
 
+NOTA: si al intentar programar hay errores de puerto, asegurese de instalar los drivers del programador del esp8266 https://sparks.gogo.co.nz/ch340.html
+
 1 Introduzca en un puerto usb el dispositivo con el esp8266 instalado
 
 2 Abra el IDE de Arduino, arriba del todo seleccione "Herramientas", luego a "Placa", luego donde dice "ESP8266 Boards", y por ultimo seleccione el que dice "Generic ESP8266 Module"
